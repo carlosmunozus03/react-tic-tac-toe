@@ -1,5 +1,4 @@
 //will be render a 9 cubes
-
 import React from 'react';
 import Square from 'src/components/Square';
 
